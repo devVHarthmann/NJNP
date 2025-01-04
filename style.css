@@ -34,7 +34,8 @@ main{
     justify-content: space-between;
 }
 .quad{
-    background-color: brown;
+    border: solid black 2px;
+    background-color: white;
     width: 500px;
     height: 200px;
     border-radius: 6px;
@@ -43,7 +44,7 @@ main{
     align-items: center;
 }
 .mCab{
-    background-color: wheat;
+    background-color: #ff6e6e;
     width: 100%;
     height: 60px;
     display: flex;
