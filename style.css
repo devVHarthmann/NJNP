@@ -7,7 +7,7 @@
 #cab{
     width: 100%;
     height: 150px;
-    background-color: #5e99f8;
+    background-color: #0D96CA;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -44,7 +44,7 @@ main{
     align-items: center;
 }
 .mCab{
-    background-color: #5e99f8;
+    background-color: #0D96CA;
     width: 100%;
     height: 60px;
     display: flex;
